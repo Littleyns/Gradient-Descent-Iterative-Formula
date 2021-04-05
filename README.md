@@ -9,4 +9,7 @@ variable 'alpha' is the hyperparameter OR learning rate in machine learning OR t
 
 <img src="gradient.png" width="250">
 
+
+<img src="minima.PNG" width="500">
+
 LittleYounes
