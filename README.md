@@ -7,4 +7,6 @@ variable 'f' is the function
 
 variable 'alpha' is the hyperparameter OR learning rate in machine learning OR the step in mathematics
 
-<LittleYounes/>
+<img src="gradient.png" width="250">
+
+LittleYounes
